@@ -1,0 +1,18 @@
+h1. roll_password
+
+This is a shell script, which rolls a random passphrase based of a diceware wordlist. It's as random as the bash RANDOM random is. So do not use it for key signing or crypto stuff. But it's random enough for online service.
+
+You can choose the wordlist file, the number of words and the minimum length of the password.
+
+h2. Help
+
+For available options and help use -h flag.
+
+h2. License
+
+This script is released under the GNU General Public License Version 2 and above
+
+Grab your copy:
+
+* Version 2: "http://www.gnu.org/licenses/gpl-2.0.html":http://www.gnu.org/licenses/gpl-2.0.html
+* Version 3: "http://www.gnu.org/licenses/gpl-3.0.html":http://www.gnu.org/licenses/gpl-3.0.html 
